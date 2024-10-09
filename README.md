@@ -1,11 +1,11 @@
 # UnderLib
-The best library for **[JavaScript](/UnderLibJS.md)** / **[Node.JS](/UnderLibNodeJS.md)** developers.
+The best library for JavaScript / Node.JS developers.
+- If you are a JavaScript developer? Then try UnderLib, a library similar to jQuery!
+- If you are a Node.JS developer? Then send HTTP server and AJAX requests!
+#### I combined these two simple functions into **ONLY ONE CODE**!
 
-If you are a JavaScript developer? Then try UnderLib, a library similar to jQuery!
-
-If you are a Node.JS developer? Then send HTTP server and AJAX requests!
-
-I combined these two simple functions into **ONLY ONE CODE**!
+[**<div style="font-size: 30px; margin: 0;">JavaScript</div>**](/wiki/js)
+[**<div style="font-size: 30px; margin: 0;">Node.JS</div>**](/wiki/node)
 
 ### How can I use different features in different languages?
 The grammar of JavaScript and Node.JS is almost the same, and the only difference is the execution environment.

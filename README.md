@@ -2,7 +2,7 @@
 The best library for JavaScript / Node.JS developers.
 - If you are a JavaScript developer? Then try UnderLib, a library similar to jQuery!
 - If you are a Node.JS developer? Then send HTTP server and AJAX requests!
-#### I combined these two simple functions into **ONLY ONE CODE**!
+**I combined these two simple functions into `ONLY ONE CODE`!**
 
 > ### [**JavaScript**](/wiki/js.md)
 > ### [**Node.JS**](/wiki/node.md)

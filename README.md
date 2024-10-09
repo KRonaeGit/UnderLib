@@ -1,5 +1,5 @@
 # UnderLib
-The best library for **(JavaScript)[/UnderLibJS.md]** / **(Node.JS)[/UnderLibNodeJS.md]** developers.
+The best library for **[JavaScript](/UnderLibJS.md)** / **[Node.JS](/UnderLibNodeJS.md)** developers.
 
 If you are a JavaScript developer? Then try UnderLib, a library similar to jQuery!
 

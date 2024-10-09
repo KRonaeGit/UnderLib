@@ -4,7 +4,7 @@ The best library for JavaScript / Node.JS developers.
 - If you are a Node.JS developer? Then send HTTP server and AJAX requests!
 #### I combined these two simple functions into **ONLY ONE CODE**!
 
-[**<div style="font-size: 30px; margin: 0;">JavaScript</div>**](/wiki/js)
+<div style="font-size: 30px; margin: 0;">[**JavaScript**](/wiki/js)</div>
 [**<div style="font-size: 30px; margin: 0;">Node.JS</div>**](/wiki/node)
 
 ### How can I use different features in different languages?

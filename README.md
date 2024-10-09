@@ -4,9 +4,8 @@ The best library for JavaScript / Node.JS developers.
 - If you are a Node.JS developer? Then send HTTP server and AJAX requests!
 #### I combined these two simple functions into **ONLY ONE CODE**!
 
-> [**JavaScript**](/wiki/js.md)
-> 
-> [**Node.JS**](/wiki/node.md)
+> ### [**JavaScript**](/wiki/js.md)
+> ### [**Node.JS**](/wiki/node.md)
 
 ### How can I use different features in different languages?
 The grammar of JavaScript and Node.JS is almost the same, and the only difference is the execution environment.
